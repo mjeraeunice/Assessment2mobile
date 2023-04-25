@@ -77,9 +77,6 @@ fun userDetails(accountnumber:Int,accountname:String,balance:Double){
 println("Account number x with balance y is operated by z")
 }
 
-
-
-
 //Create another class SavingsAccount. It has the same functions and
 //attributes as the current account except for one attribute, withdrawals: Int.
 //Withdrawals is a counter variable that is used to keep track of how many
